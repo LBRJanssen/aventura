@@ -34,8 +34,8 @@ sim.addEventListener("click", () => {
 
 let timerInterval
 Swal.fire({
-  title: 'Obrigado 😍',
-  html: 'Prometo lhe fazer feliz. 💘',
+  title: 'Aperte os cintos ✈️ ',
+  html: 'Prometo que vai gostar 💗',
   timer: 2000,
   timerProgressBar: true,
   didOpen: () => {
